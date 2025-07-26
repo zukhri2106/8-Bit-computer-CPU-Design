@@ -50,7 +50,7 @@ The goal is to understand and experiment with computer architecture by designing
 
 ### 📚 Learn More
 
-* Visit [Logic Circuit’s documentation](https://logiccircuit.org/docs/) for advanced features
+* Visit [Logic Circuit’s documentation]([https://logiccircuit.org/docs/](https://www.logiccircuit.org/help.html)) for advanced features
 * Check `docs/` (if exists) for block diagrams, instruction set, or architecture notes
 
 ---
