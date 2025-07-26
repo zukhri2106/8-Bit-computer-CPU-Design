@@ -36,7 +36,7 @@ The goal is to understand and experiment with computer architecture by designing
 
    * Launch Logic Circuit
    * Go to **File → Open**
-   * Load `main.circuit` to see the full CPU design
+   * Load `main.CircuitProject` to see the full CPU design
 
 3. **Explore the modules**
 
