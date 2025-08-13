@@ -1,6 +1,6 @@
 ## 📦 8-bit Computer CPU Design
 
-This repository contains a complete design of an **8-bit CPU** built **entirely from logic gates** using [Logic Circuit](https://logiccircuit.org/).
+This repository will contain a complete design of an **8-bit CPU** built **entirely from logic gates** using [Logic Circuit](https://logiccircuit.org/).
 The goal is to understand and experiment with computer architecture by designing each CPU component — like the program counter, ALU, registers, instruction memory, and control unit — from scratch.
 
 ---
